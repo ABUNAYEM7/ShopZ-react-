@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/tM3Xsdr/t-shirt.jpg",
+      "title": "Men's Classic T-Shirt",
+      "description": "A comfortable and casual t-shirt made from 100% cotton.",
+      "price": 19.99,
+      "category": "Clothing",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/VVnvkK0/denim.webp",
+      "title": "Women's Denim Jacket",
+      "description": "A stylish denim jacket perfect for all seasons.",
+      "price": 59.99,
+      "category": "Clothing",
+      "inStock": false
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/xzv3CLs/Huddie.webp",
+      "title": "Unisex Hoodie",
+      "description": "A warm and cozy hoodie with a front pocket.",
+      "price": 35.99,
+      "category": "Clothing",
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/xDwzZCT/summer-dress.jpg",
+      "title": "Women's Summer Dress",
+      "description": "A light and breezy dress for those hot summer days.",
+      "price": 45.00,
+      "category": "Clothing",
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/9tTGpkq/cargo-pants.jpg",
+      "title": "Men's Cargo Pants",
+      "description": "Durable and comfortable cargo pants with multiple pockets.",
+      "price": 49.99,
+      "category": "Clothing",
+      "inStock": false
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/ccT99jT/leggins.webp",
+      "title": "Women's Active Leggings",
+      "description": "High-performance leggings designed for workouts.",
+      "price": 29.99,
+      "category": "Clothing",
+      "inStock": true
+    }
+  ]
