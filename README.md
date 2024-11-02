@@ -1,8 +1,15 @@
-# React + Vite
+# 🛍️ ShopZ
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**"Be Unique, Be Authentic"**
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ShopZ is a straightforward e-commerce platform focused on clothing and fashion. With ShopZ, users can:
+
+- **Add Products to Cart** – Browse and add items to your shopping cart.
+- **View Product Details** – Check detailed information for each item.
+- **Manage Cart** – Remove items from the cart as desired.
+
+## Live Preview
+
+Explore ShopZ here: [ShopZ.surge.sh](http://ShopZ.surge.sh)
